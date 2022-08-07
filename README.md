@@ -8,7 +8,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -20,15 +19,10 @@ My first app using React.js! I purposefully choose a simple (maybe the simplest)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://nablanco.github.io/QR-code-component/)
+- Live Site URL: [QR Code Component] (https://nablanco.github.io/QR-code-component/)
 
 ### Built with
 
 - CSS/Flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
