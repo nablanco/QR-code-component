@@ -1,0 +1,9 @@
+.qr {
+  display: block;
+  background-image: url(../../../images/image-qr-code.png);
+  background-size: 100%;
+  width: 275px;
+  height: 275px;
+  margin: 12.5px 0px;
+  border-radius: 10px;
+}
